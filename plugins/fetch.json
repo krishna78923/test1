@@ -1,0 +1,10 @@
+{
+  "phonegap-plugin-local-notification": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/phonegap/phonegap-plugin-local-notification"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
